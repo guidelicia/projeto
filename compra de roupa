@@ -1,0 +1,192 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta name="description" content="página inical da loja de roupa">
+    <title>Roupas da lus</title>
+    <link rel="stylesheet" href="cssroupa.css">
+</head>
+<body>
+    <h1><strong>faça agora mesmo suas compras</strong></h1>
+     
+    <section>
+        <div class="card">
+        <!--primeiro item-->
+       <img src="davy jones.jpeg" alt="camisa do davy jones">
+       <p>camisa lendaria do davy jones</p>
+       <p><Strong>por apenas 89,69</Strong></p>
+       <p>escolha o seu tamanho</p>
+       <!--tamanho p-->
+       <input type="radio" value="P" id="tam1" name="pergunta1">
+       <label for="tam1">P</label>
+       <!--tamanho M-->
+       <div> <input type="radio" value="M" id="tam2" name="pergunta1">
+       <label for="tam2">M</label></div>
+       <!--tamanho G-->
+       <div> <input type="radio" value="G" id="tam3" name="pergunta1">
+       <label for="tam3">G</label></div>
+       <!--tamanho GG-->
+       <div> <input type="radio" value="GG" id="tam4" name="pergunta1">
+       <label for="tam4">GG</label></div>
+       <a href="sair.html">comprar</a>
+       </div>
+
+        
+       <div class="card">
+        <!--segundo item-->
+       <img src="davi drake.jpeg" alt="camisa do davi brito drake">
+       <p>Davi Brito drake</p>
+       <p><Strong>por apenas 70,69</Strong></p>
+       <p>escolha o seu tamanho</p>
+       <!--tamanho p-->
+       <input type="radio" value="P" id="tam1" name="pergunta2">
+       <label for="tam1">P</label>
+       <!--tamanho M-->
+       <div> <input type="radio" value="M" id="tam2" name="pergunta2">
+       <label for="tam2">M</label></div>
+       <!--tamanho G-->
+       <div> <input type="radio" value="G" id="tam3" name="pergunta2">
+       <label for="tam3">G</label></div>
+       <!--tamanho GG-->
+       <div> <input type="radio" value="GG" id="tam4" name="pergunta2">
+       <label for="tam4">GG</label></div>
+       <a href="sair.html">comprar</a>
+       </div>
+
+    
+        <div class="card">
+        <!--terceiro item-->
+       <img src="caneta azul.jpeg" alt="camisa do caneta azul">
+       <p>caneta azul</p>
+       <p><Strong>por apenas 103,69</Strong></p>
+       <p>escolha o seu tamanho</p>
+       <!--tamanho p-->
+       <input type="radio" value="P" id="tam1" name="pergunta3">
+       <label for="tam1">P</label>
+       <!--tamanho M-->
+       <div> <input type="radio" value="M" id="tam2" name="pergunta3">
+       <label for="tam2">M</label></div>
+       <!--tamanho G-->
+       <div> <input type="radio" value="G" id="tam3" name="pergunta3">
+       <label for="tam3">G</label></div>
+       <!--tamanho GG-->
+       <div> <input type="radio" value="GG" id="tam4" name="pergunta3">
+       <label for="tam4">GG</label></div>
+       <a href="sair.html">comprar</a>
+       </div>
+
+        <div class="card">
+        <!--terceiro item-->
+       <img src="eu sou seu pai.jpeg" alt="camisa do pai do caba">
+       <p>"eu sou seu pai" kkk</p>
+       <p><Strong>por apenas 79,69</Strong></p>
+       <p>escolha o seu tamanho</p>
+       <!--tamanho p-->
+       <input type="radio" value="P" id="tam1" name="pergunta4">
+       <label for="tam1">P</label>
+       <!--tamanho M-->
+       <div> <input type="radio" value="M" id="tam2" name="pergunta4">
+       <label for="tam2">M</label></div>
+       <!--tamanho G-->
+       <div> <input type="radio" value="G" id="tam3" name="pergunta4">
+       <label for="tam3">G</label></div>
+       <!--tamanho GG-->
+       <div> <input type="radio" value="GG" id="tam4" name="pergunta4">
+       <label for="tam4">GG</label></div>
+       <a href="sair.html">comprar</a>
+       </div>
+
+    
+        <div class="card">
+        <!--terceiro item-->
+       <img src="camisa forte.jpeg" alt="camisa da mansão marromba">
+       <p>você é fortinho?</p>
+       <p><Strong>por apenas 39,69</Strong></p>
+       <p>escolha o seu tamanho</p>
+       <!--tamanho p-->
+       <input type="radio" value="P" id="tam1" name="pergunta5">
+       <label for="tam1">P</label>
+       <!--tamanho M-->
+       <div> <input type="radio" value="M" id="tam2" name="pergunta5">
+       <label for="tam2">M</label></div>
+       <!--tamanho G-->
+       <div> <input type="radio" value="G" id="tam3" name="pergunta5">
+       <label for="tam3">G</label></div>
+       <!--tamanho GG-->
+       <div> <input type="radio" value="GG" id="tam4" name="pergunta5">
+       <label for="tam4">GG</label></div>
+       <a href="sair.html">comprar</a>
+       </div>
+
+    
+        <div class="card">
+        <!--terceiro item-->
+       <img src="coringa.webp" alt="camisa do coringa">
+       <p>louco e sonhador</p>
+       <p><Strong>por apenas 69,69</Strong></p>
+       <p>escolha o seu tamanho</p>
+       <!--tamanho p-->
+       <input type="radio" value="P" id="tam1" name="pergunta6">
+       <label for="tam1">P</label>
+       <!--tamanho M-->
+       <div> <input type="radio" value="M" id="tam2" name="pergunta6">
+       <label for="tam2">M</label></div>
+       <!--tamanho G-->
+       <div> <input type="radio" value="G" id="tam3" name="pergunta6">
+       <label for="tam3">G</label></div>
+       <!--tamanho GG-->
+       <div> <input type="radio" value="GG" id="tam4" name="pergunta6">
+       <label for="tam4">GG</label></div>
+       <a href="sair.html">comprar</a>
+       </div>
+
+        <div class="card">
+        <!--terceiro item-->
+       <img src="neymar.jpg" alt="camisa do neymar">
+       <p>é o caba</p>
+       <p><Strong>por apenas 39,69</Strong></p>
+       <p>escolha o seu tamanho</p>
+       <!--tamanho p-->
+       <input type="radio" value="P" id="tam1" name="pergunta7">
+       <label for="tam1">P</label>
+       <!--tamanho M-->
+       <div> <input type="radio" value="M" id="tam2" name="pergunta7">
+       <label for="tam2">M</label></div>
+       <!--tamanho G-->
+       <div> <input type="radio" value="G" id="tam3" name="pergunta7">
+       <label for="tam3">G</label></div>
+       <!--tamanho GG-->
+       <div> <input type="radio" value="GG" id="tam4" name="pergunta7">
+       <label for="tam4">GG</label></div>
+       <a href="sair.html">comprar</a>
+       </div>
+
+    
+
+    
+        <div class="card">
+        <!--terceiro item-->
+       <img src="silvio.png" alt="camisado silvo santos">
+       <p>protagonista</p>
+       <p><Strong>por apenas 300,69</Strong></p>
+       <p>escolha o seu tamanho</p>
+       <!--tamanho p-->
+       <input type="radio" value="P" id="tam1" name="pergunta8">
+       <label for="tam1">P</label>
+       <!--tamanho M-->
+       <div> <input type="radio" value="M" id="tam2" name="pergunta8">
+       <label for="tam2">M</label></div>
+       <!--tamanho G-->
+       <div> <input type="radio" value="G" id="tam3" name="pergunta8">
+       <label for="tam3">G</label></div>
+       <!--tamanho GG-->
+       <div> <input type="radio" value="GG" id="tam4" name="pergunta8">
+       <label for="tam4">GG</label></div>
+       <a href="sair.html">comprar</a>
+       </div>
+
+    </section>
+    <a href="https://www.google.com" target="_blank">sair</a>
+
+
+</body>
+</html>
