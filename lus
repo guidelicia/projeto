@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta name="description" content="página inical da loja de roupa">
+    <title>lus</title>  
+    <link rel="stylesheet" href="csslus.css">
+</head>
+
+<body>
+    <header>
+        <h1>Bem-vindo à melhor loja de roupa do mundo!</h1>
+        <p>Compre já suas roupas com o <strong>melhor preço do mercado</strong></p>
+    </header>
+    
+    <main>
+        <section>
+            <!-- Sessão de introdução -->
+            <h2>Iniciativa da loja</h2>
+            <p>Essa loja foi desenvolvida para pessoas que estão cansadas de roupas 
+                <abbr title="roupa de gente chata">"comuns"</abbr>.<br>
+                Então venha conhecer nossa variedade de peças!
+            </p>
+        </section>
+
+        <section>
+            <!-- Fase de login -->
+            <h2>Então venha ser cliente, faça o login para ir às compras!</h2>
+            <p>seu email</p>
+            <form action="roupa.html" method="GET">
+                <input 
+                    autocapitalize="off" 
+                    placeholder="ex:daviBrito@gmail.com" 
+                    name="email"
+                    type="email"
+                    required
+                />
+                <p>seu numero</p>
+                <input
+                
+                    placeholder="(DD) 99999-9999" 
+                    name="tel" 
+                    pattern="\(\d{2}\)\s\d{5}-\d{4}"
+                    type="text"
+                    required
+                />
+                
+                <button type="submit">Registrar</button>
+            </form>
+        </section>
+    </main>
+
+    <footer>
+        <p  class="sla">A lus agradece pelo seu acesso</p>
+        <p class="sla">&copy;  esse site é uma propriedade de Guilherme e Sasuke Uchiha</p>
+        <p class="sla">qualquer problema entre em contato com o suporte
+            <a href="http://wa.me/558291938519" target="_blank">(82) 9193-8519</a>
+        
+
+        </p>
+    </footer>
+
+
+
+</body>
+</html>
