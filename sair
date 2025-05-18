@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta name="description" content="página de sair">
+    <title>Erro!!!</title>
+    <link rel="stylesheet" href="erro.css">
+</head>  
+<body>
+    <img src="erro.png" alt="mensagem do dev falando que não terminou o site">
+</body>
+</html>
